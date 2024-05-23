@@ -17,6 +17,15 @@ This is a demo example project built with Laravel 11 bootcamp.
 
 ### Demo Account
 
-[//]: # (- AdminURL: http://localhost/chears)
+- AdminURL: http://localhost/chears
 - Email: test@example.com
 - Password: password
+
+#### Todo Chears
+
+![image](https://github.com/cdbastos/cdbastos-laravel_11_bootcamp/assets/9170933/64e408bc-6425-4125-b024-32a1a79c6ae3)
+
+
+#### Notify others users
+
+![image](https://github.com/cdbastos/cdbastos-laravel_11_bootcamp/assets/9170933/c1cfb7a8-fa64-451b-a748-130bb33f9c7c)
