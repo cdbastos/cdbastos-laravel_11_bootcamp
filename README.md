@@ -1,9 +1,9 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-## About Bootcamp Laravel Project
+## About Bootcamp Laravel 11 - Chears
 
 ### Project Description
-This is a demo example project built with Laravel 11
+This is a demo example project built with Laravel 11 bootcamp.
 
 ### How to Install
 1. Clone the project
@@ -17,6 +17,6 @@ This is a demo example project built with Laravel 11
 
 ### Demo Account
 
-[//]: # (- AdminURL: http://127.0.0.1:8000/admin/tasks-kanban-board)
+[//]: # (- AdminURL: http://localhost/chears)
 - Email: test@example.com
 - Password: password
